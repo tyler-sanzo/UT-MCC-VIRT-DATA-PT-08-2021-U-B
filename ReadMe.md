@@ -2,3 +2,5 @@
 * We will post class activities here at the beginning of the week
 * Solutions will be posted after class :D
 
+
+Trish's Git Lesson
