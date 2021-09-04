@@ -7,3 +7,11 @@ Trish's Git Lesson
 
 
 ![Cute Kitty](download.jpg)
+
+```
+for i in range(10:
+    print("hello world"))
+```
+
+----
+End Code Block
