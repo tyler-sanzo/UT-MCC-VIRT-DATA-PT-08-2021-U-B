@@ -4,3 +4,6 @@
 
 
 Trish's Git Lesson
+
+
+![Cute Kitty](download.jpg)
