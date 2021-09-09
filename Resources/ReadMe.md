@@ -118,6 +118,6 @@ This site supports these topics:
 
 ---
 
-![Work](https://media.giphy.com/media/bpr2oLSUYUUcjq91zU/giphy.gif)
+![Hustle](https://media.giphy.com/media/3oz8xD8KOjTwxGG1q0/giphy.gif)
 
 ![DO IT](https://media.giphy.com/media/3o85xtLX7zCyeeWGLC/giphy.gif)
