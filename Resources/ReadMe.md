@@ -116,4 +116,8 @@ This site supports these topics:
 6. [JavaScript](https://www.w3schools.com/js/default.asp), [HTML](https://www.w3schools.com/html/default.asp) & [CSS](https://www.w3schools.com/css/default.asp)
 7. And [more](https://www.w3schools.com/!)
 
+---
 
+![Work](https://media.giphy.com/media/bpr2oLSUYUUcjq91zU/giphy.gif) 
+
+![DO IT](https://media.giphy.com/media/3o85xtLX7zCyeeWGLC/giphy.gif)
