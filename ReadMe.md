@@ -1,17 +1,7 @@
 ## UT Data Analytics & Visualization Boot Camp
-* We will post class activities here at the beginning of the week
-* Solutions will be posted after class :D
 
+# **Update**
 
-Trish's Git Lesson
+:warning:
+Check out the [Resources](https://github.com/the-Coding-Boot-Camp-at-UT/UT-MCC-VIRT-DATA-PT-08-2021-U-B/tree/main/Resources) folder for links, cheatsheets, and videos! 
 
-
-![Cute Kitty](download.jpg)
-
-```
-for i in range(10:
-    print("hello world"))
-```
-
-----
-End Code Block
